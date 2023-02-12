@@ -1,0 +1,11 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh
+}
+
+
+.taskCompleted{
+   background-color:  #4CAF50;
+  color: white;
+}
